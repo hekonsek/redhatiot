@@ -1,5 +1,11 @@
 # Red Hat IoT
 
+Red Hat IoT (aka *redhatiot*) is a project demonstrating how Red Hat portfolio can be used to deliver new generation
+Internet Of Things platform.
+
+redhatiot is based on the top of the leading open source projects including [Eclipse Vert.x](http://vertx.io/),
+[Keycloak](http://www.keycloak.org), [Apache Spark](http://spark.apache.org/) and [CentOS](https://www.centos.org/).
+
 ## Documentation
 
 ### Installation
