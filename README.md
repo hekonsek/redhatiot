@@ -12,7 +12,7 @@ redhatiot is based on the top of the leading open source projects including [Ecl
 
 In order to install redhatiot on CentOS 7.2, first install redhatiot command line:
 
-    $ bash <(curl -sL https://goo.gl/Kl8AId)
+    $ bash <(curl -sL https://goo.gl/gB2bk5)
     redhatiot client has been installed into /usr/bin/redhatiot .
 
 Then execute the following command, which starts the PaaS platform and deploys [standard redhatiot components](installation.md) into it:
